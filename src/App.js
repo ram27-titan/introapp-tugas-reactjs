@@ -1,9 +1,9 @@
-import Styling from './Materi/Styling';
+import Redux from './Materi/Redux';
 
 function App() {
   return (
     <div className="App">
-      <Styling />
+      <Redux />
     </div>
   );
 }
